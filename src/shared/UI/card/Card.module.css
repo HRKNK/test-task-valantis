@@ -1,0 +1,5 @@
+.card__wrapper {
+    border: solid 2px black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
